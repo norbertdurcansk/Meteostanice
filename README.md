@@ -1,1 +1,2 @@
 # Meteostanice
+Jiřík je nejlepší
